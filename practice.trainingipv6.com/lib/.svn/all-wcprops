@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/develop/!svn/ver/1500/trunk/ipv6_education_practices/lib
+END
+smtp.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/smtp.cls.php
+END
+session.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/session.cls.php
+END
+ca.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/ca.cls.php
+END
+module.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/module.cls.php
+END
+db.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/develop/!svn/ver/1097/trunk/ipv6_education_practices/lib/db.cls.php
+END
+editor.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/editor.cls.php
+END
+gms.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/gms.cls.php
+END
+ftp.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/ftp.cls.php
+END
+strings.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/strings.cls.php
+END
+gd.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/gd.cls.php
+END
+config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/develop/!svn/ver/1083/trunk/ipv6_education_practices/lib/config.inc.php
+END
+tpl.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/tpl.cls.php
+END
+sql.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/develop/!svn/ver/1481/trunk/ipv6_education_practices/lib/sql.cls.php
+END
+files.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/develop/!svn/ver/1500/trunk/ipv6_education_practices/lib/files.cls.php
+END
+init.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/develop/!svn/ver/937/trunk/ipv6_education_practices/lib/init.cls.php
+END
+html.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/html.cls.php
+END
+pg.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/pg.cls.php
+END
+cnf.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/cnf.cls.php
+END
+sphinx.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/sphinx.cls.php
+END
+api.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/api.cls.php
+END
+ev.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/develop/!svn/ver/1353/trunk/ipv6_education_practices/lib/ev.cls.php
+END
+wechat.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/wechat.cls.php
+END
+category.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/category.cls.php
+END
+alipay.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/develop/!svn/ver/1203/trunk/ipv6_education_practices/lib/alipay.cls.php
+END
+http.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/develop/!svn/ver/931/trunk/ipv6_education_practices/lib/http.cls.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/develop/!svn/ver/1808/trunk/ipv6_education_practices/app/user/tpls/app
+END
+nav.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/develop/!svn/ver/1716/trunk/ipv6_education_practices/app/user/tpls/app/nav.tpl
+END
+register.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/1808/trunk/ipv6_education_practices/app/user/tpls/app/register.tpl
+END
+foot.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/develop/!svn/ver/1467/trunk/ipv6_education_practices/app/user/tpls/app/foot.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/develop/!svn/ver/1463/trunk/ipv6_education_practices/app/user/tpls/app/header.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/develop/!svn/ver/1165/trunk/ipv6_education_practices/app/user/tpls/app/login.tpl
+END
+serviceterm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/develop/!svn/ver/1548/trunk/ipv6_education_practices/app/user/tpls/app/serviceterm.tpl
+END

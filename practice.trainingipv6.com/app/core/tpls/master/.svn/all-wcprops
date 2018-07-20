@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/develop/!svn/ver/1517/trunk/ipv6_education_practices/app/core/tpls/master
+END
+apps.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/core/tpls/master/apps.tpl
+END
+menu.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/core/tpls/master/menu.tpl
+END
+nav.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/develop/!svn/ver/1517/trunk/ipv6_education_practices/app/core/tpls/master/nav.tpl
+END
+config.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/core/tpls/master/config.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/1473/trunk/ipv6_education_practices/app/core/tpls/master/index.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/develop/!svn/ver/1472/trunk/ipv6_education_practices/app/core/tpls/master/header.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/1516/trunk/ipv6_education_practices/app/core/tpls/master/login.tpl
+END

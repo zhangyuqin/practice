@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/develop/!svn/ver/1758/trunk/ipv6_education_practices/app/user/tpls/center
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/develop/!svn/ver/1075/trunk/ipv6_education_practices/app/user/tpls/center/header.tpl
+END
+payfor.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/develop/!svn/ver/1102/trunk/ipv6_education_practices/app/user/tpls/center/payfor.tpl
+END
+applyinfo.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/develop/!svn/ver/1156/trunk/ipv6_education_practices/app/user/tpls/center/applyinfo.tpl
+END
+payfor_detail.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/develop/!svn/ver/1758/trunk/ipv6_education_practices/app/user/tpls/center/payfor_detail.tpl
+END
+menu.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/develop/!svn/ver/1136/trunk/ipv6_education_practices/app/user/tpls/center/menu.tpl
+END
+nav.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/develop/!svn/ver/1717/trunk/ipv6_education_practices/app/user/tpls/center/nav.tpl
+END
+applycertified.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/develop/!svn/ver/1149/trunk/ipv6_education_practices/app/user/tpls/center/applycertified.tpl
+END
+modifyuser.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/develop/!svn/ver/1084/trunk/ipv6_education_practices/app/user/tpls/center/modifyuser.tpl
+END
+foot.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/user/tpls/center/foot.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/1722/trunk/ipv6_education_practices/app/user/tpls/center/index.tpl
+END

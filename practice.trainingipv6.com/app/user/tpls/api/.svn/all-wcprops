@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/develop/!svn/ver/1594/trunk/ipv6_education_practices/app/user/tpls/api
+END
+payfor_status.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/develop/!svn/ver/1594/trunk/ipv6_education_practices/app/user/tpls/api/payfor_status.tpl
+END
+foot.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/develop/!svn/ver/1280/trunk/ipv6_education_practices/app/user/tpls/api/foot.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/develop/!svn/ver/1280/trunk/ipv6_education_practices/app/user/tpls/api/header.tpl
+END

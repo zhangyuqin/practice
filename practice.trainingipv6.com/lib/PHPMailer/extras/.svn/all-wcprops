@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/extras
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/extras/README.md
+END
+htmlfilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/extras/htmlfilter.php
+END
+ntlm_sasl_client.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/extras/ntlm_sasl_client.php
+END
+EasyPeasyICS.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/extras/EasyPeasyICS.php
+END

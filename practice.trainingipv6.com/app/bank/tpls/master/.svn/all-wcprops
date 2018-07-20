@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/develop/!svn/ver/1552/trunk/ipv6_education_practices/app/bank/tpls/master
+END
+orders.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/bank/tpls/master/orders.tpl
+END
+coupon.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/bank/tpls/master/coupon.tpl
+END
+menu.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/develop/!svn/ver/1552/trunk/ipv6_education_practices/app/bank/tpls/master/menu.tpl
+END
+nav.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/develop/!svn/ver/1502/trunk/ipv6_education_practices/app/bank/tpls/master/nav.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/1552/trunk/ipv6_education_practices/app/bank/tpls/master/index.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/bank/tpls/master/header.tpl
+END
+outcoupon.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/bank/tpls/master/outcoupon.tpl
+END
+addcoupon.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/bank/tpls/master/addcoupon.tpl
+END

@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="title" content="IPv6论坛认证网络工程师练习系统">
+<meta name="description" content="IPv6论坛认证网络工程师练习系统">
+<meta name="keywords" content="IPv6论坛认证网络工程师练习系统">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>IPv6论坛认证网络工程师练习系统</title>
+<link href="app/core/styles/css/bootstrap-combined.min.css" rel="stylesheet">
+<link href="app/core/styles/css/layoutit.css" rel="stylesheet">
+<link href="app/core/styles/css/plugin.css" rel="stylesheet">
+<link href="app/core/styles/css/datetimepicker.css" rel="stylesheet">
+<script type="text/javascript" src="app/core/styles/js/jquery-1.9.1.min.js"></script>
+<link rel="stylesheet" href="app/exam/styles/css/mathquill.css" type="text/css">
+<script type="text/javascript" src="app/core/styles/js/jquery-ui.js"></script>
+<script type="text/javascript" src="app/core/styles/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="app/core/styles/js/bootstrap-datetimepicker.js"></script>
+<script type="text/javascript" src="app/core/styles/js/bootstrap-datetimepicker.zh-CN.js"></script>
+<script type="text/javascript" src="app/core/styles/js/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="app/core/styles/js/swfu/swfupload.js"></script>
+<script type="text/javascript" src="app/core/styles/js/plugin.js"></script>
+</head><body>
+<div class="navbar navbar-inverse">	<div class="navbar-inner">		<div class="container-fluid">			<button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar" type="button"> 				<span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> 			</button><a href="index.php" target="_blank" class="brand"><img src="app/core/styles/images/favicon.png">IPv6论坛认证网络工程师练习系统管理平台</a>			<div class="nav-collapse navbar-responsive-collapse collapse">				<ul class="nav">															<li class="active">						<a href="index.php?user-master">用户管理</a>					</li>																				<li>						<a href="index.php?exam-master">考试管理</a>					</li>																																																		<li>						<a href="index.php?bank-master">财务管理</a>					</li>														</ul>				<ul class="nav pull-right">					<li>						<a href="index.php">网站首页</a>					</li>					<li class="divider-vertical">					</li>					<li class="dropdown">						<a data-toggle="dropdown" class="dropdown-toggle" href="#">peadmin<strong class="caret"></strong></a>						<ul class="dropdown-menu">							<li>								<a href="index.php?user-app-privatement">个人中心</a>							</li>							<li class="divider">							</li>							<li>								<a href="index.php?core-master-logout">退出管理</a>							</li>						</ul>					</li>				</ul>			</div>		</div>	</div></div><div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span2">
+			<ul class="nav nav-tabs nav-stacked">	<li>		<a href="index.php?user-master">首页</a>	</li>	<li>		<a href="index.php?user-master-user">用户管理</a>	</li>	<li class="active">		<a href="index.php?user-master-apply">认证管理</a>	</li>	<li>		<a href="index.php?user-master-actor">角色管理</a>	</li>	<li>		<a href="index.php?user-master-module">模型管理</a>	</li></ul>		</div>
+		<div class="span10" id="datacontent">
+			<ul class="breadcrumb">
+				<!-- <li><a href="index.php?user-master">用户管理</a> <span class="divider">/</span></li> -->
+				<li class="active">认证管理</li>
+			</ul>
+			<table class="table table-hover">
+				<thead>
+					<tr>
+						<th>认证名称</th>
+						<th>用户名</th>
+						<th>姓名</th>
+						<th>邮箱</th>
+						<th>护照/身份证</th>
+						<th>电话</th>
+						<th>时间</th>
+						<th>状态</th>
+						<th>操作</th>
+					</tr>
+				</thead>
+				<tbody>
+										<tr>
+						<td>IPv6 Forum Certified Engineer (Silver)</td>
+						<td>Bennelli</td>
+						<td>刘尧昌</td>
+						<td>727218067@qq.com</td>
+					<!-- 	<td></td>
+						<td></td> -->
+						<td>440203199301292434</td>
+						<td>15915994089</td>
+						<td>2015-09-14</td>
+						<td>
+															审核中
+													</td>
+						<td>
+							<div class="btn-group">
+								<a class="btn" title="查看详情" href="index.php?user-master-apply-detail&applyid=13">
+									<em class="icon-info-sign"></em>
+								</a>
+								<a class="ajax btn" title="审核通过" href="index.php?user-master-apply-status&applyid=13&status=1">
+									<em class="icon-plus-sign"></em>
+								</a>
+								<a class="ajax btn" title="审核不通过" href="index.php?user-master-apply-status&applyid=13&status=2">
+									<em class="icon-minus-sign"></em>
+								</a>
+								<a class="ajax btn" title="删除" href="index.php?user-master-apply-delete&applyid=13"> 
+									<em class="icon-remove-sign"></em>
+								</a>			
+									
+							</div>
+						</td>
+					</tr>
+										<tr>
+						<td>IPv6 Forum Certified Engineer (Silver)</td>
+						<td>alien88</td>
+						<td>Yuan Peng</td>
+						<td>18697799751@163.com</td>
+					<!-- 	<td></td>
+						<td></td> -->
+						<td>230803199002020037</td>
+						<td>18697799751</td>
+						<td>2016-01-21</td>
+						<td>
+															审核通过
+													</td>
+						<td>
+							<div class="btn-group">
+								<a class="btn" title="查看详情" href="index.php?user-master-apply-detail&applyid=14">
+									<em class="icon-info-sign"></em>
+								</a>
+								<a class="ajax btn" title="审核通过" href="index.php?user-master-apply-status&applyid=14&status=1">
+									<em class="icon-plus-sign"></em>
+								</a>
+								<a class="ajax btn" title="审核不通过" href="index.php?user-master-apply-status&applyid=14&status=2">
+									<em class="icon-minus-sign"></em>
+								</a>
+								<a class="ajax btn" title="删除" href="index.php?user-master-apply-delete&applyid=14"> 
+									<em class="icon-remove-sign"></em>
+								</a>			
+									
+							</div>
+						</td>
+					</tr>
+										<tr>
+						<td>IPv6 Forum Certified Engineer (Silver)</td>
+						<td>chenqi</td>
+						<td>陈琦</td>
+						<td>273091228@qq.com</td>
+					<!-- 	<td></td>
+						<td></td> -->
+						<td>341221198508192794</td>
+						<td>18925106336</td>
+						<td>2017-09-14</td>
+						<td>
+															审核中
+													</td>
+						<td>
+							<div class="btn-group">
+								<a class="btn" title="查看详情" href="index.php?user-master-apply-detail&applyid=302">
+									<em class="icon-info-sign"></em>
+								</a>
+								<a class="ajax btn" title="审核通过" href="index.php?user-master-apply-status&applyid=302&status=1">
+									<em class="icon-plus-sign"></em>
+								</a>
+								<a class="ajax btn" title="审核不通过" href="index.php?user-master-apply-status&applyid=302&status=2">
+									<em class="icon-minus-sign"></em>
+								</a>
+								<a class="ajax btn" title="删除" href="index.php?user-master-apply-delete&applyid=302"> 
+									<em class="icon-remove-sign"></em>
+								</a>			
+									
+							</div>
+						</td>
+					</tr>
+										<tr>
+						<td>IPv6 Forum Certified Engineer (Silver)</td>
+						<td>zhanglide</td>
+						<td>Lide Zhang</td>
+						<td>zhanglide2018@gmail.com</td>
+					<!-- 	<td></td>
+						<td></td> -->
+						<td>E78344735</td>
+						<td>18981996855</td>
+						<td>2017-06-28</td>
+						<td>
+															审核中
+													</td>
+						<td>
+							<div class="btn-group">
+								<a class="btn" title="查看详情" href="index.php?user-master-apply-detail&applyid=301">
+									<em class="icon-info-sign"></em>
+								</a>
+								<a class="ajax btn" title="审核通过" href="index.php?user-master-apply-status&applyid=301&status=1">
+									<em class="icon-plus-sign"></em>
+								</a>
+								<a class="ajax btn" title="审核不通过" href="index.php?user-master-apply-status&applyid=301&status=2">
+									<em class="icon-minus-sign"></em>
+								</a>
+								<a class="ajax btn" title="删除" href="index.php?user-master-apply-delete&applyid=301"> 
+									<em class="icon-remove-sign"></em>
+								</a>			
+									
+							</div>
+						</td>
+					</tr>
+										<tr>
+						<td>IPv6 Forum Certified Engineer (Silver)</td>
+						<td>wokemen</td>
+						<td>胡万元</td>
+						<td>hwy5@163.com</td>
+					<!-- 	<td></td>
+						<td></td> -->
+						<td>530326198601204210</td>
+						<td>13733833132</td>
+						<td>2016-03-21</td>
+						<td>
+															审核通过
+													</td>
+						<td>
+							<div class="btn-group">
+								<a class="btn" title="查看详情" href="index.php?user-master-apply-detail&applyid=300">
+									<em class="icon-info-sign"></em>
+								</a>
+								<a class="ajax btn" title="审核通过" href="index.php?user-master-apply-status&applyid=300&status=1">
+									<em class="icon-plus-sign"></em>
+								</a>
+								<a class="ajax btn" title="审核不通过" href="index.php?user-master-apply-status&applyid=300&status=2">
+									<em class="icon-minus-sign"></em>
+								</a>
+								<a class="ajax btn" title="删除" href="index.php?user-master-apply-delete&applyid=300"> 
+									<em class="icon-remove-sign"></em>
+								</a>			
+									
+							</div>
+						</td>
+					</tr>
+									</tbody>
+			</table>
+			<div class="pagination pagination-right">
+				<ul></ul>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+<script>
+	$(document).ready(function(){
+		$('.table tbody tr').each(function(){
+			var character = $(this).children('td').eq(3).html();
+			if(character == '普通用户'){
+				$(this).css('display','none');
+			}
+		})
+	})
+</script>

@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/develop/!svn/ver/1747/trunk/ipv6_education_practices/app/exam/tpls/master
+END
+nav.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/develop/!svn/ver/1502/trunk/ipv6_education_practices/app/exam/tpls/master/nav.tpl
+END
+questionrows_bataddchild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questionrows_bataddchild.tpl
+END
+exams_self.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/exams_self.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/develop/!svn/ver/1461/trunk/ipv6_education_practices/app/exam/tpls/master/header.tpl
+END
+questionrows_modify.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questionrows_modify.tpl
+END
+basic_addquestype.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_addquestype.tpl
+END
+basic_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/develop/!svn/ver/1746/trunk/ipv6_education_practices/app/exam/tpls/master/basic_add.tpl
+END
+questionrows_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questionrows_add.tpl
+END
+questionchildrows_modify.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questionchildrows_modify.tpl
+END
+recyle_questions.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/recyle_questions.tpl
+END
+basic_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_subject.tpl
+END
+questions_modify.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questions_modify.tpl
+END
+basic_modifypoint.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_modifypoint.tpl
+END
+basic_addpoint.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_addpoint.tpl
+END
+tools_session.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/tools_session.tpl
+END
+recyle_knows.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/recyle_knows.tpl
+END
+exams_auto.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/exams_auto.tpl
+END
+basic_section.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_section.tpl
+END
+question_filebatadd.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/question_filebatadd.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/develop/!svn/ver/1552/trunk/ipv6_education_practices/app/exam/tpls/master/index.tpl
+END
+exams_manager.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/develop/!svn/ver/1546/trunk/ipv6_education_practices/app/exam/tpls/master/exams_manager.tpl
+END
+recyle_rowsquestions.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/recyle_rowsquestions.tpl
+END
+exams_score.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/develop/!svn/ver/1563/trunk/ipv6_education_practices/app/exam/tpls/master/exams_score.tpl
+END
+basic_area.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_area.tpl
+END
+exams.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/exams.tpl
+END
+exams_ajaxsetting.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/exams_ajaxsetting.tpl
+END
+user.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/user.tpl
+END
+question_add.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/question_add.tpl
+END
+basic.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic.tpl
+END
+tools_history.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/tools_history.tpl
+END
+basic_addarea.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_addarea.tpl
+END
+questionrows.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questionrows.tpl
+END
+exams_selected.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/exams_selected.tpl
+END
+user_batopen.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/user_batopen.tpl
+END
+basic_modify.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/develop/!svn/ver/1747/trunk/ipv6_education_practices/app/exam/tpls/master/basic_modify.tpl
+END
+question_detail.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/question_detail.tpl
+END
+basic_point.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_point.tpl
+END
+questions.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questions.tpl
+END
+selectquestions.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/selectquestions.tpl
+END
+questionrows_addchild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questionrows_addchild.tpl
+END
+exams_modifyself.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/exams_modifyself.tpl
+END
+tools.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/tools.tpl
+END
+users_basic.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/users_basic.tpl
+END
+questionrows_detail.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questionrows_detail.tpl
+END
+exams_scorelist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/1569/trunk/ipv6_education_practices/app/exam/tpls/master/exams_scorelist.tpl
+END
+menu.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/develop/!svn/ver/1554/trunk/ipv6_education_practices/app/exam/tpls/master/menu.tpl
+END
+question_batadd.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/question_batadd.tpl
+END
+basic_examrange.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/1588/trunk/ipv6_education_practices/app/exam/tpls/master/basic_examrange.tpl
+END
+basic_modifysubject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_modifysubject.tpl
+END
+basic_addsubject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_addsubject.tpl
+END
+basic_modifyquest.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_modifyquest.tpl
+END
+questionrows_list.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questionrows_list.tpl
+END
+basic_modifysection.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_modifysection.tpl
+END
+exams_modifyauto.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/exams_modifyauto.tpl
+END
+basic_addsection.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_addsection.tpl
+END
+basic_questype.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_questype.tpl
+END
+basic_modifyarea.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/basic_modifyarea.tpl
+END
+questionrows_batadd.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/develop/!svn/ver/931/trunk/ipv6_education_practices/app/exam/tpls/master/questionrows_batadd.tpl
+END

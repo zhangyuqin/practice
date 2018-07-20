@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples
+END
+code_generator.phps
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/code_generator.phps
+END
+smtp_check.phps
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/smtp_check.phps
+END
+exceptions.phps
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/exceptions.phps
+END
+mail.phps
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/mail.phps
+END
+smtp.phps
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/smtp.phps
+END
+pop_before_smtp.phps
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/pop_before_smtp.phps
+END
+contents.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/contents.html
+END
+gmail.phps
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/gmail.phps
+END
+sendmail.phps
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/sendmail.phps
+END
+send_file_upload.phps
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/send_file_upload.phps
+END
+contentsutf8.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/contentsutf8.html
+END
+smtp_no_auth.phps
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/smtp_no_auth.phps
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/index.html
+END
+mailing_list.phps
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/mailing_list.phps
+END
+ssl_options.phps
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/develop/!svn/ver/1085/trunk/ipv6_education_practices/lib/PHPMailer/examples/ssl_options.phps
+END
